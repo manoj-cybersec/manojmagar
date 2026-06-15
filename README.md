@@ -25,6 +25,3 @@ Cybersecurity enthusiast with hands-on experience in web application security, n
 - CTF Writeups
 - Security Tool Development
 
-## Connect With Me
-- LinkedIn: your-linkedin-url
-- TryHackMe: your-tryhackme-profile
