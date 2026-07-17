@@ -21,7 +21,6 @@ Cybersecurity enthusiast with hands-on experience in web application security, n
 
 ## Current Focus
 - Pentest+ Learning Path
-- AWS Fundamentals
 - CTF Writeups
 - Security Tool Development
 
