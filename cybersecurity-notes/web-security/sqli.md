@@ -20,3 +20,9 @@ In this example, I will take the reference of portswigger labs.
 * For this portswigger lab the query is ending by this query " ?category=Accessories ".
 * We will just put ' ORDER BY 10 -- .  { Explaination Order by will determine the number of columns should be same and will rearrange if it is not then it will generation an error. -- This will comment out the rest of the part the Application's SQL query.
 <img width="670" height="304" alt="image" src="https://github.com/user-attachments/assets/4d2b356e-215a-47b3-bc1a-fe35b4fa444c" />
+
+* One more thing if we are entering the lesser suppose in this we found the number of columns are 3 but if we are entering 2 it will not generate error. So this method will make our technique more short.
+
+<img width="2436" height="1190" alt="image" src="https://github.com/user-attachments/assets/aeef599b-ec55-4cf2-aa54-d73eba52eb8e" />
+
+
